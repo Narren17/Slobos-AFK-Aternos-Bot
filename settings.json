@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "niggast.minefort.com",
-    "port": 25565,
+    "ip": "straightppl.aternos.me:26975",
+    "port": 26975,
     "version": "",
     "try-creative": false
   },
